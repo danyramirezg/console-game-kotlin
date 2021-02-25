@@ -1,4 +1,4 @@
-package io
+package game_hangman
 
 fun main(args: Array<String>) {
 
